@@ -20,8 +20,9 @@ I made it by creating a music route. I then explained why I liked music which I 
 
 ## Screenshots
 
-- Home: (mywebsite/public/images/home.png)
-- Interest: (mywebsite/public/images/music-web.png)
+- Home: <img width="1709" height="447" alt="home" src="https://github.com/user-attachments/assets/0678eecf-c99e-4044-aa87-e5b433b79b78" />
+- Interest: <img width="1710" height="504" alt="music-web" src="https://github.com/user-attachments/assets/cf093c23-b359-4984-9b65-929d8cadc9a2" />
+
 
 ## Project location
 
